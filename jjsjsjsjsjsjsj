@@ -1,0 +1,27 @@
+[33mcommit 57d418fd4e0fc70cd49dabf555959123c3ef7fba[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Gumerov Erik <gumeroverik@bk.ru>
+Date:   Thu Sep 3 18:14:57 2020 +0500
+
+    ver 2.0
+
+[1mdiff --git a/README b/README[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+[1mdiff --git a/sss.md b/sss.md[m
+[1mnew file mode 100644[m
+[1mindex 0000000..65f5bb0[m
+[1m--- /dev/null[m
+[1m+++ b/sss.md[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mss[m
+\ No newline at end of file[m
+
+[33mcommit b0a9c2fc6d799d70019ccdfc5524acecd74e00ef[m
+Author: Gumerov Erik <gumeroverik@bk.ru>
+Date:   Thu Sep 3 17:18:16 2020 +0500
+
+    initial
+
+[1mdiff --git a/auf.c b/auf.c[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
